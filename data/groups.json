@@ -1,0 +1,70 @@
+[
+	{
+		"nome": "1ª EM",
+    "id": "1EM",
+		"colaboradores": [
+			{
+				"apelido": "adriana",
+        "disciplina" : "Portugues"
+			},
+      {
+        "apelido": "danielle",
+        "disciplina": "Matematica"
+      },
+      {
+        "apelido": "betty",
+        "disciplina": "Fisica"
+      },
+      {
+        "apelido": "edu",
+        "disciplina": "Geografia"
+      },
+      {
+        "apelido": "savalla",
+        "disciplina": "Historia"
+      },
+      {
+        "apelido": "monchero",
+        "disciplina": "Biologia"
+      },
+      {
+        "apelido": "daniela",
+        "disciplina": "Quimica"
+      }
+		]
+	},
+	{
+		"nome": "2ª EM",
+    "id": "2EM",
+		"colaboradores": [
+			{
+				"apelido": "danielle",
+        "disciplina": "Fisica"
+			},
+      {
+        "apelido": "gisele",
+        "disciplina": "Biologia"
+      },
+      {
+        "apelido": "daniela",
+        "disciplina": "Quimica"
+      },
+      {
+        "apelido": "janete",
+        "disciplina": "Historia"
+      },
+      {
+        "apelido": "jefferson",
+        "disciplina": "Geografia"
+      },
+      {
+        "apelido": "josi",
+        "disciplina": "Portugues"
+      },
+      {
+        "apelido": "livia",
+        "disciplina": "Fisica"
+      }
+		]
+	}
+]

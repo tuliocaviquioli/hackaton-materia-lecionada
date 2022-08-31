@@ -1,0 +1,81 @@
+[
+    {
+        "apelido": "adriana",
+        "disciplinas": [
+            "Portugues",
+            "Gramatica",
+            "Literatura"
+        ]
+    },
+    {
+        "apelido": "danielle",
+        "disciplinas": [
+            "Fisica",
+            "Geometria",
+            "Algebra"
+        ]
+    },
+    {
+        "apelido": "betty",
+        "disciplinas": [
+            "Fisica",
+            "Trigonometria"
+        ]
+    },
+    {
+        "apelido": "edu",
+        "disciplinas": [
+            "Geografia",
+            "Historia"
+        ]
+    },
+    {
+        "apelido": "monchero",
+        "disciplinas": [
+            "Biologia"
+        ]
+    },
+    {
+        "apelido": "daniela",
+        "disciplinas": [
+            "Quimica"
+        ]
+    },
+    {
+        "apelido": "gisele",
+        "disciplinas": [
+            "Biologia"
+        ]
+    },
+    {
+        "apelido": "janete",
+        "disciplinas": [
+            "Biologia"
+        ]
+    },
+    {
+        "apelido": "jefferson",
+        "disciplinas": [
+            "Geografia"
+        ]
+    },
+    {
+        "apelido": "livia",
+        "disciplinas": [
+            "Fisica"
+        ]
+    },
+    {
+        "apelido": "savalla",
+        "disciplinas": [
+            "Historia"
+        ]
+    },
+    {
+        "apelido": "josi",
+        "disciplinas": [
+            "Portugues"
+        ]
+    }
+
+]

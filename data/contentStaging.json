@@ -1,0 +1,245 @@
+[
+	{
+		"apelido": "danielle",
+		"materia": [
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 1 - Alg",
+				"data": "2022-08-23 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 1º grau"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 2 - Geom",
+				"data": "2022-08-25 07:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Quadrado"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 1 - Geom",
+				"data": "2022-08-29 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Círculo"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 4 - Alg",
+				"data": "2022-08-31 09:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 2º grau"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 2 - Geom",
+				"data": "2022-02-02 07:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 3 - Geom",
+				"data": "2022-09-02 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 1 - Geom",
+				"data": "2022-09-06 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Retângulo"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 2 - Alg",
+				"data": "2022-09-08 07:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam equação do 1º grau com uma incógnita"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 1 - Alg",
+				"data": "2022-09-12 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Simples"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 4 - Geom",
+				"data": "2022-09-14 09:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Triângulo"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 2 - Alg",
+				"data": "2022-09-16 07:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 3 - Alg",
+				"data": "2022-09-16 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Algebra",
+				"idAula": "Aula 1 - Alg",
+				"data": "2022-09-20 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas de Fórmula de Bhaskara"
+			},
+			{
+				"turma": "Ensino Fundamental I",
+				"disciplina": "Geometria",
+				"idAula": "Aula 2 - Geom",
+				"data": "2022-09-22 07:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Teorema de Pitágoras"
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 3 - Alg",
+				"data": "2022-08-23 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 1º grau"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 4 - Geom",
+				"data": "2022-08-25 09:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Quadrado"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 3 - Geom",
+				"data": "2022-08-29 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Círculo"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 1 - Alg",
+				"data": "2022-08-31 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 2º grau"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 5 - Geom",
+				"data": "2022-09-02 11:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 6 - Geom",
+				"data": "2022-09-02 11:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 3 - Geom",
+				"data": "2022-09-06 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Retângulo"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 4 - Alg",
+				"data": "2022-09-08 09:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam equação do 1º grau com uma incógnita"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 3 - Alg",
+				"data": "2022-09-12 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Simples"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 1 - Geom",
+				"data": "2022-09-14 07:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas da Área do Triângulo"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 5 - Alg",
+				"data": "2022-09-16 11:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 6 - Alg",
+				"data": "2022-09-16 11:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Algebra",
+				"idAula": "Aula 3 - Alg",
+				"data": "2022-09-20 09:00",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas de Fórmula de Bhaskara"
+
+			},
+			{
+				"turma": "Ensino Médio II",
+				"disciplina": "Geometria",
+				"idAula": "Aula 4 - Geom",
+				"data": "2020-09-22 09:50",
+				"materiaLecionada": false ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Teorema de Pitágoras"
+
+			}
+		]
+	}
+]
