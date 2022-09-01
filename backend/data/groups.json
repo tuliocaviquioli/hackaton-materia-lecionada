@@ -1,7 +1,7 @@
 [
 	{
-		"nome": "1ª EM",
-    "id": "1EM",
+		"nome": "1ª EF",
+    "id": "EF1",
 		"colaboradores": [
 			{
 				"apelido": "adriana",
@@ -35,7 +35,7 @@
 	},
 	{
 		"nome": "2ª EM",
-    "id": "2EM",
+    "id": "EM2",
 		"colaboradores": [
 			{
 				"apelido": "danielle",

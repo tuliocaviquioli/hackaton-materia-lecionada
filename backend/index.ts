@@ -5,7 +5,8 @@ import { Request, Response } from 'express'
 import Users from './data/users.json'
 import Groups from './data/groups.json'
 import Components from './data/components.json'
-import Contents from './data/contentStaging.json'
+import Contents from './data/content.json'
+import { getFilteredContents, getFilteredGroups } from './function/filters'
 
 const jsonParser = bodyParser.json()
 
@@ -23,14 +24,11 @@ app.get('/turmas', jsonParser, (req: Request, res: Response) => {
 	const apelido = req.headers.apelido
 	const turma = req.headers.turma
 
-	console.log('Requisição chegou')
-	
-	const associateGroups = turma 
-	?	Groups.filter(group => (group.colaboradores.find(colaborador => colaborador.apelido === apelido) && group.id === turma ))
-	: Groups.filter(group => (group.colaboradores.find(colaborador => colaborador.apelido === apelido) ))
+	const result = getFilteredGroups(apelido, turma, Groups)
 
-	return res.json(associateGroups)
+	return res.json(result)
 })
+
 
 app.get('/disciplinas', jsonParser, (req: Request, res: Response) => {
 	const apelido = req.headers.apelido
@@ -41,17 +39,15 @@ app.get('/disciplinas', jsonParser, (req: Request, res: Response) => {
 
 app.get('/materiaLecionada', jsonParser, (req: Request, res: Response) => {
 	const apelido = req.headers.apelido
-	const turma = req.headers.turma
-	const disciplina = req.headers.disciplina
+	const turmasFilter = req.query.idTurma?.toString().split(',')
+	const disciplinasFilter = req.query.disciplina?.toString().split(',')
+	const associateContent = Contents.find(content => content.apelido === apelido)
 
+	const result = getFilteredContents(turmasFilter, disciplinasFilter, associateContent)
 
-	const associateContents = Contents.find(content => content.apelido === apelido)
-	return res.json(associateContents?.materia)
+	return res.json(result)
 })
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`)
 })
-
-
-

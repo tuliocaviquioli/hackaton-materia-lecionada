@@ -3,260 +3,324 @@
 		"apelido": "adriana",
 		"materia": [
 			{
+				"idMateria": "1",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 1 - Lit",
 				"data": "2022-08-22 07:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer"
 			},
 			{
+				"idMateria": "2",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 2 - Gra",
 				"data": "2022-08-24 07:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer fonemas e letra (vogal)"
 			},
 			{
+				"idMateria": "3",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 4 - Lit",
 				"data": "2022-08-26 09:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Criar narrativas ficcionais"
 			},
 			{
+				"idMateria": "4",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 5 - Lit",
 				"data": "2022-08-26 11:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Ler e escrever Figuras de Linguagem."
 			},
 			{
+				"idMateria": "5",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 3 - Lit",
 				"data": "2022-08-30 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Ler e escrever Provérbios e Ditados."
 			},
 			{
+				"idMateria": "6",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 6 - Gra",
 				"data": "2022-09-01 11:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Ler e escrever o Encontros vocálicos (ditongo)"
 			},
 			{
+				"idMateria": "7",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 1 - Gra",
 				"data": "2022-09-05 07:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "8",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 2 - Lit",
 				"data": "2022-09-07 07:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Feriado"
 			},
 			{
+				"idMateria": "9",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 4 - Gra",
 				"data": "2022-09-09 09:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer"
 			},
 			{
+				"idMateria": "10",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 5 - Gra",
 				"data": "2022-09-09 11:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer"
 			},
 			{
+				"idMateria": "11",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 3 - Gra",
 				"data": "2022-09-13 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "12",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 6 - Lit",
 				"data": "2022-09-15 11:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "13",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 1 - Lit",
 				"data": "2022-09-19 07:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Analisar a função e as flexões dos verbos nos modos indicativo e subjuntivo."
 			},
 			{
+				"idMateria": "14",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Gramatica",
 				"idAula": "Aula 2 - Gra",
 				"data": "2022-09-21 07:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "15",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 4 - Lit",
 				"data": "2022-09-23 09:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Pontuar textos adequadamente."
 			},
 			{
+				"idMateria": "16",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Literatura",
 				"idAula": "Aula 5 - Lit",
 				"data": "2022-09-23 11:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Classificar"
 			},
 			{
+				"idMateria": "17",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "EM2",
 				"idAula": "Aula 3 - Lit",
 				"data": "2022-08-22 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer"
 			},
 			{
+				"idMateria": "18",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 4 - Gra",
 				"data": "2022-08-22 09:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer fonemas e letra (vogal)"
 			},
 			{
+				"idMateria": "19",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 1 - Lit",
 				"data": "2022-08-26 07:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Criar narrativas ficcionais"
 			},
 			{
+				"idMateria": "20",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 2 - Lit",
 				"data": "2022-08-26 07:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Ler e escrever Figuras de Linguagem."
 			},
 			{
+				"idMateria": "21",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 6 - Lit",
 				"data": "2022-08-30 15:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Ler e escrever Provérbios e Ditados."
 			},
 			{
+				"idMateria": "22",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 3 - Gra",
 				"data": "2022-09-01 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Ler e escrever o Encontros vocálicos (ditongo)"
 			},
 			{
+				"idMateria": "23",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 3 - Gra",
 				"data": "2022-09-05 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "24",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 4 - Lit",
 				"data": "2022-09-07 09:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "25",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 1 - Gra",
 				"data": "2022-09-09 07:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer"
 			},
 			{
+				"idMateria": "26",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 2 - Gra",
 				"data": "2022-09-09 07:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Reconhecer"
 			},
 			{
+				"idMateria": "27",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 6 - Gra",
 				"data": "2022-09-13 11:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "28",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 3 - Lit",
 				"data": "2022-09-15 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Analisar a função e as flexões dos verbos nos modos indicativo e subjuntivo."
 			},
 			{
+				"idMateria": "29",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 3 - Lit",
 				"data": "2022-09-19 09:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Pontuar textos adequadamente."
 			},
 			{
+				"idMateria": "30",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Gramatica",
 				"idAula": "Aula 4 - Gra",
 				"data": "2022-09-21 09:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Identificar"
 			},
 			{
+				"idMateria": "31",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 1 - Lit",
 				"data": "2022-09-23 07:00",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Classificar"
 			},
 			{
+				"idMateria": "32",
 				"turma": "Ensino Medio II",
-				"disciplina": "",
+				"idTurma": "EM2",
+				"disciplina": "Literatura",
 				"idAula": "Aula 2 - Lit",
 				"data": "2022-09-23 07:50",
 				"materiaLecionada": false ,
-				"conteudo": ,
+				"conteudo": "Formar palavras derivadas com os prefixos e sufixos."
 
 			}
 		]
@@ -265,241 +329,297 @@
 		"apelido": "danielle",
 		"materia": [
 			{
+				"idMateria": "33",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 1 - Alg",
 				"data": "2022-08-23 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas de Equação do 1º grau" ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 1º grau"
 			},
 			{
+				"idMateria": "34",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 2 - Geom",
 				"data": "2022-08-25 07:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Quadrado" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Quadrado"
 			},
 			{
+				"idMateria": "35",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 1 - Geom",
 				"data": "2022-08-29 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Círculo" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Círculo"
 			},
 			{
+				"idMateria": "36",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 4 - Alg",
 				"data": "2022-08-31 09:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas de Equação do 2º grau" ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 2º grau"
 			},
 			{
+				"idMateria": "37",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 2 - Geom",
 				"data": "2022-02-02 07:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
 			},
 			{
+				"idMateria": "38",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 3 - Geom",
 				"data": "2022-09-02 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
 			},
 			{
+				"idMateria": "39",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 1 - Geom",
 				"data": "2022-09-06 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Retângulo" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Retângulo"
 			},
 			{
+				"idMateria": "40",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 2 - Alg",
 				"data": "2022-09-08 07:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam equação do 1º grau com uma incógnita" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam equação do 1º grau com uma incógnita"
 			},
 			{
+				"idMateria": "41",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 1 - Alg",
 				"data": "2022-09-12 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas Regra de Três Simples" ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Simples"
 			},
 			{
+				"idMateria": "42",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 4 - Geom",
 				"data": "2022-09-14 09:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Triângulo" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Triângulo"
 			},
 			{
+				"idMateria": "43",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 2 - Alg",
 				"data": "2022-09-16 07:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas Regra de Três Composta" ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
 			},
 			{
+				"idMateria": "44",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 3 - Alg",
 				"data": "2022-09-16 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas Regra de Três Composta" ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
 			},
 			{
+				"idMateria": "45",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Algebra",
 				"idAula": "Aula 1 - Alg",
 				"data": "2022-09-20 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas de Fórmula de Bhaskara" ,
+				"conteudo": "Resolver e elaborar problemas de Fórmula de Bhaskara"
 			},
 			{
+				"idMateria": "46",
 				"turma": "Ensino Fundamental I",
+				"idTurma": "EF1",
 				"disciplina": "Geometria",
 				"idAula": "Aula 2 - Geom",
 				"data": "2022-09-22 07:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam Teorema de Pitágoras" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Teorema de Pitágoras"
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "47",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 3 - Alg",
 				"data": "2022-08-23 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas de Equação do 1º grau" ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 1º grau"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "48",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 4 - Geom",
 				"data": "2022-08-25 09:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Quadrado" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Quadrado"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "49",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 3 - Geom",
 				"data": "2022-08-29 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Círculo" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Círculo"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "50",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 1 - Alg",
 				"data": "2022-08-31 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas de Equação do 2º grau" ,
+				"conteudo": "Resolver e elaborar problemas de Equação do 2º grau"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "51",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 5 - Geom",
 				"data": "2022-09-02 11:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "52",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 6 - Geom",
 				"data": "2022-09-02 11:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Área e Perímetro"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "53",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 3 - Geom",
 				"data": "2022-09-06 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Retângulo" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Retângulo"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "54",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 4 - Alg",
 				"data": "2022-09-08 09:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam equação do 1º grau com uma incógnita" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam equação do 1º grau com uma incógnita"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "55",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 3 - Alg",
 				"data": "2022-09-12 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas Regra de Três Simples" ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Simples"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "56",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 1 - Geom",
 				"data": "2022-09-14 07:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas da Área do Triângulo" ,
+				"conteudo": "Resolver e elaborar problemas da Área do Triângulo"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "57",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 5 - Alg",
 				"data": "2022-09-16 11:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas Regra de Três Composta" ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "58",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 6 - Alg",
 				"data": "2022-09-16 11:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas Regra de Três Composta" ,
+				"conteudo": "Resolver e elaborar problemas Regra de Três Composta"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "59",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Algebra",
 				"idAula": "Aula 3 - Alg",
 				"data": "2022-09-20 09:00",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas de Fórmula de Bhaskara" ,
+				"conteudo": "Resolver e elaborar problemas de Fórmula de Bhaskara"
 
 			},
 			{
-				"turma": "Ensino Médio II",
+				"idMateria": "60",
+				"turma": "Ensino Medio II",
+				"idTurma": "EM2",
 				"disciplina": "Geometria",
 				"idAula": "Aula 4 - Geom",
 				"data": "2020-09-22 09:50",
 				"materiaLecionada": false ,
-				"conteudo": "Resolver e elaborar problemas que envolvam Teorema de Pitágoras" ,
+				"conteudo": "Resolver e elaborar problemas que envolvam Teorema de Pitágoras"
 
 			}
 		]
